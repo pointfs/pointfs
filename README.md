@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pointfs&repo=github-readme-stats)](https://github.com/pointfs/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pointfs&layout=compact)](https://github.com/pointfs/github-readme-stats)
